@@ -43,10 +43,16 @@ header{
 
 /* Main */
 
+/* .container{
+    margin: 50px 70px 20px;
 
-main .container{
+} */
+
+.container{
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
+    margin: 50px 70px 20px;
 }
 
 .image{
@@ -153,3 +159,8 @@ nav .text{
   background-color: #696969;
   font-weight: bold;
 }
+
+/* #bottom{
+    position: fixed;
+    z-index: 1;
+} */
