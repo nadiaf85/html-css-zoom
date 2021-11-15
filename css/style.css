@@ -57,6 +57,7 @@ header{
 
 .image{
     position: relative;
+    border: 3px solid black;
 }
 
 .image .textmic{
@@ -147,7 +148,7 @@ nav .text{
   justify-content: center;
 }
 
-.nav-main .screen{
+.nav-main .screen i{
   color: lime;
 }
 
